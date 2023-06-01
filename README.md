@@ -1,5 +1,3 @@
-> 🙋‍♂️ Open to work
-
 ### 👋 Hi there
 
 I have been a developer for over 9 years, first as a frontend and then as a backend in the AdTech industry until 2018. I improved my skills during my last full-time experience at Comet as a Lead Developer until 2022.
