@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I have been a developer for over 9 years, first as a frontend and then as a backend in the AdTech industry until 2018. I improved my skills during my last full-time experience at Comet as a Lead Developer until 2022.
+I have been a developer for over 10 years, first as a frontend and then as a backend in the AdTech industry until 2018. I improved my skills during my last full-time experience at Comet as a Lead Developer until 2022.
 
 I am now specialized in Typescript and code architecture, and have a keen interest in security, DevOps, and product issues.
 I had the opportunity to do a lot of R&D on GraphQL and end-to-end typing during my last two experiences.
@@ -21,5 +21,5 @@ In my free time, I like to learn new ways of creating, whether it's embedded cod
 
 ### 📫 Reach me at
 
-- [![Linkedin](https://www.linkedin.com/favicon.ico) LinkedIn](https://www.linkedin.com/in/alexandre-moatty/)  
+- [<img src="https://www.linkedin.com/favicon.ico" alt="linkedin" width="16"/> LinkedIn](https://www.linkedin.com/in/alexandre-moatty/)  
 - [<img src="https://dam.malt.com/rebranding2020/malt-logo/icon-76x76" alt="malt" width="16"/> Malt](https://www.malt.fr/profile/alexandremoatty1)
